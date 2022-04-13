@@ -1,4 +1,4 @@
-In sub-section 6.1: _Estimate SS WD278m_ of the [compute guide document](/Wind-turbine-long-term-energy-forecast_Compute-guide.pdf), we apply the so-called "mean offset" approach which is mentionned in this [book](/Reference/Wind%20Resource%20Assessment%20-%20A%20Practical%20Guide%20to%20Developing%20a%20Wind%20Project_Michael%20Brower%20_Wiley%20(2012).pdf) (12.4.4 - _ Direction and Other Parameters_, p.173)
+In sub-section 6.1: _Estimate SS WD278m_ of the [compute guide document](/Wind-turbine-long-term-energy-forecast_Compute-guide.pdf), we apply the so-called "mean offset" approach which is mentionned in this [book](/Reference/Wind%20Resource%20Assessment%20-%20A%20Practical%20Guide%20to%20Developing%20a%20Wind%20Project_Michael%20Brower%20_Wiley%20(2012).pdf) (12.4.4 - _Direction and Other Parameters_, p.173):
 
 <div class="csl-bib-body">
   <div data-csl-entry-id="brower2012wind" class="csl-entry">
